@@ -1,0 +1,534 @@
+1. News
+Website Name	URL
+Indiatimes	https://www.indiatimes.com/
+Times of India	https://timesofindia.indiatimes.com/
+Hindustan Times	https://www.hindustantimes.com/
+News18	https://www.news18.com/
+NDTV	https://www.ndtv.com/
+Indian Express	https://indianexpress.com/
+Aaj Tak	https://www.aajtak.in/
+ABP Live	https://www.abplive.com/
+Live Hindustan	https://www.livehindustan.com/
+Amar Ujala	https://www.amarujala.com/
+
+
+2. Shopping
+Website Name	URL
+Amazon	https://www.amazon.in/
+Flipkart	https://www.flipkart.com/
+Myntra	https://www.myntra.com/
+Tata Cliq	https://www.tatacliq.com/
+Nykaa	https://www.nykaa.com/
+Ajio	https://www.ajio.com/
+FirstCry	https://www.firstcry.com/
+ShopClues	https://www.shopclues.com/
+Snapdeal	https://www.snapdeal.com/
+Pepperfry	https://www.pepperfry.com/
+
+
+
+3. Bill Payments & Recharge
+Website Name	URL
+Amazon Pay	https://www.amazon.in/
+Jio	https://www.jio.com/
+Paytm	https://paytm.com/
+Airtel Payments	https://www.airtel.in/
+VI  https://www.myvi.in/
+MobiKwik	https://www.mobikwik.com/
+Freecharge	https://www.freecharge.in/
+BSNL https://portal.bsnl.in/
+
+4. Fashion
+Website Name	URL
+Amazon Fashion	https://www.amazon.in/fashion/
+Flipkart Fashion	https://www.flipkart.com/fashion/
+Myntra	https://www.myntra.com/
+Tata Cliq	https://www.tatacliq.com/
+Nykaa Fashion	https://www.nykaafashion.com/
+Meesho	https://www.meesho.com/
+Ajio	https://www.ajio.com/
+Urbanic	https://www.urbanic.com/
+Faballey	https://www.faballey.com/
+Limeroad	https://www.limeroad.com/
+
+5. Travel
+Website Name	URL
+MakeMyTrip	https://www.makemytrip.com/
+IRCTC	https://www.irctc.co.in/
+Redbus	https://www.redbus.in/
+RailYatri	https://www.railyatri.in/
+Tripadvisor	https://www.tripadvisor.in/
+Goibibo	https://www.goibibo.com/
+Ixigo	https://www.ixigo.com/
+ConfirmTkt	https://www.confirmtkt.com/
+IndianRail	https://www.indianrail.gov.in/
+Trainman	https://www.trainman.in/
+
+
+
+6. Grocery
+Website Name	URL
+BigBasket	https://www.bigbasket.com/
+Blinkit	https://blinkit.com/
+JioMart	https://www.jiomart.com/
+Amazon Pantry	https://www.amazon.in/pantry/
+Zepto	https://www.zeptonow.com/
+Nature’s Basket	https://www.naturesbasket.co.in/
+Spencer’s	https://www.spencers.in/
+Dunzo	https://www.dunzo.com/
+Grofers (now Blinkit)	https://www.grofers.com/
+Reliance Smart	https://www.reliancesmart.in/
+
+7. Baby Product
+Website Name	URL
+FirstCry	https://www.firstcry.com/
+Hopscotch	https://www.hopscotch.in/
+Mother Sparsh	https://mothersparsh.com/
+Hamleys	https://www.hamleys.in/
+SuperBottom	https://superbottoms.com/
+MotherCare	https://www.mothercare.in/
+R For Rabbit	https://rforrabbit.com/
+Mamaearth	https://mamaearth.in/
+Slurrp Farm	https://www.slurrpfarm.com/
+Tiny Lane	https://tinylane.com/
+
+8. Gift Stores
+Website Name	URL
+FNP	https://www.fnp.com/
+IGP	https://www.igp.com/
+FlowerAura	https://www.floweraura.com/
+Winni	https://www.winni.in/
+OyeGifts	https://www.oyegifts.com/
+The Wishing Chair	https://wishingchair.in/
+PropShop24	https://www.propshop24.com/
+Archies	https://www.archiesonline.com/
+GiftstoIndia24x7	https://www.giftstoindia24x7.com/
+Giftsmate	https://www.giftsmate.net/
+
+9. Home and Garden
+Website Name	URL
+Pepperfry	https://www.pepperfry.com/
+Urban Ladder	https://www.urbanladder.com/
+IKEA India	https://www.ikea.com/in/en/
+Wakefit	https://www.wakefit.co/
+Home Centre	https://www.homecentre.in/
+Wooden Street	https://www.woodenstreet.com/
+Amazon Home	https://www.amazon.in/home-kitchen/
+Flipkart Home	https://www.flipkart.com/home-kitchen/
+Livspace	https://www.livspace.com/in
+Rentomojo	https://www.rentomojo.com/
+
+10. Real Estate
+Website Name	URL
+MagicBricks	https://www.magicbricks.com/
+99Acres	https://www.99acres.com/
+NoBroker	https://www.nobroker.in/
+Makaan.com	https://www.makaan.com/
+Housing.com	https://housing.com/
+PropTiger	https://www.proptiger.com/
+CommonFloor	https://www.commonfloor.com/
+NestAway	https://www.nestaway.com/
+IndiaProperty	https://www.indiaproperty.com/
+Sulekha Real Estate	https://www.sulekha.com/real-estate
+
+11. Online Jobs (Freelance)
+Website Name	URL
+Freelancer	https://www.freelancer.com/
+Fiverr	https://www.fiverr.com/
+Upwork	https://www.upwork.com/
+PeoplePerHour	https://www.peopleperhour.com/
+Truelancer	https://www.truelancer.com/
+WorkNHire	https://worknhire.com/
+Guru	https://www.guru.com/
+Toptal	https://www.toptal.com/
+DesignCrowd	https://www.designcrowd.com/
+FlexJobs	https://www.flexjobs.com/
+
+12. Govt & Private Jobs
+Website Name	URL
+Naukri	https://www.naukri.com/
+Indeed India	https://in.indeed.com/
+FreeJobAlert	https://www.freejobalert.com/
+Sarkari Result	https://www.sarkariresult.com/
+SSC Online	https://ssc.nic.in/
+UPSC	https://www.upsc.gov.in/
+NCS Govt. Jobs	https://www.ncs.gov.in/
+IndGovtJobs	https://www.indgovtjobs.in/
+Shine	https://www.shine.com/
+LinkedIn Jobs	https://www.linkedin.com/jobs/
+
+13. Education
+Website Name	URL
+Byju's	https://byjus.com/
+Unacademy	https://unacademy.com/
+Vedantu	https://www.vedantu.com/
+PW (PhysicsWallah)	https://pw.live/
+Toppr	https://www.toppr.com/
+Embibe	https://www.embibe.com/
+StudyIQ	https://studyiq.com/
+Adda247	https://www.adda247.com/
+Testbook	https://testbook.com/
+Doubtnut	https://www.doubtnut.com/
+
+
+14. Online Courses
+Website Name	URL
+Coursera	https://www.coursera.org/
+Udemy	https://www.udemy.com/
+edX	https://www.edx.org/
+UpGrad	https://www.upgrad.com/
+Skillshare	https://www.skillshare.com/
+Great Learning	https://www.greatlearning.in/
+Swayam (Govt. India)	https://swayam.gov.in/
+Simplilearn	https://www.simplilearn.com/
+LearnVern	https://www.learnvern.com/
+Khan Academy India	https://hi-in.khanacademy.org/
+
+
+15. Learn English
+Website Name	URL
+Duolingo	https://www.duolingo.com/
+Cambly	https://www.cambly.com/
+Hello English	https://helloenglish.com/
+BBC Learning Eng.	http://www.bbc.co.uk/learningenglish
+Engguru	https://www.enguruapp.com/
+Grammarly	https://www.grammarly.com/
+Babbel	https://www.babbel.com/
+FluentU	https://www.fluentu.com/
+British Council	https://learnenglish.britishcouncil.org/
+ELSA Speak	https://www.elsaspeak.com/
+
+
+
+16. Online Book Stores
+Website Name	URL
+Amazon Books	https://www.amazon.in/books/
+Flipkart Books	https://www.flipkart.com/books/
+Crossword	https://www.crossword.in/
+SapnaOnline	https://www.sapnaonline.com/
+Bookswagon	https://www.bookswagon.com/
+Book Chor	https://www.bookchor.com/
+99BooksCart	https://www.99bookscart.com/
+BooksWagon	https://www.bookswagon.com/
+Snapdeal Books	https://www.snapdeal.com/products/books
+Rediff Books	https://books.rediff.com/
+
+
+17. Food Delivery
+Website Name	URL
+Zomato	https://www.zomato.com/
+Swiggy	https://www.swiggy.com/
+Domino’s Pizza	https://www.dominos.co.in/
+Uber Eats	https://www.ubereats.com/in
+Foodpanda	https://www.foodpanda.in/
+EatSure	https://www.eatsure.com/
+KFC India	https://online.kfc.co.in/
+McDelivery	https://www.mcdelivery.co.in/
+Box8	https://box8.in/
+Behrouz Biryani	https://www.behrouzbiryani.com/
+
+
+18. Pet Stores
+Website Name	URL
+Heads Up For Tails	https://headsupfortails.com/
+Just Dogs	https://justdogs.in/
+ThePetNest	https://thepetnest.com/
+Pet House	https://www.pethouse.co.in/
+ItsPets	https://www.itspets.in/
+DogSpa and Pet Shop	https://dogspapetshop.com/
+AquariumWorld	https://aquariumworld.in/
+The Dog World	https://thedogworld.in/
+Pets Empire	https://petsempire.in/
+Pooch Planet	https://poochplanet.in/
+
+
+19. Entertainment 
+
+Website Name	URL
+YouTube	https://www.youtube.com/
+Hotstar (Disney+HS)	https://www.hotstar.com/in
+Netflix	https://www.netflix.com/in/
+BookMyShow	https://in.bookmyshow.com/
+Amazon Prime Video	https://www.primevideo.com/
+SonyLIV	https://www.sonyliv.com/
+MX Player	https://www.mxplayer.in/
+Zee5	https://www.zee5.com/
+Dailymotion	https://www.dailymotion.com/in
+IMDb	https://www.imdb.com/
+
+
+20. Health & Pharmacy
+Website Name	URL
+1mg (Tata 1mg)	https://www.1mg.com/
+Netmeds	https://www.netmeds.com/
+PharmEasy	https://pharmeasy.in/
+Apollo Pharmacy	https://www.apollopharmacy.in/
+Medplusmart	https://www.medplusmart.com/
+SastaSundar	https://www.sastasundar.com/
+Practo	https://www.practo.com/
+Amazon Pharmacy	https://www.amazon.in/pharmacy/
+Wellness Forever	https://wellnessforever.com/
+Himalaya	https://www.himalayawellness.in/
+
+
+21. Crypto
+Website Name	URL
+WazirX	https://wazirx.com/
+CoinDCX	https://coindcx.com/
+CoinSwitch	https://coinswitch.co/
+Binance IN	https://www.binance.com/en-IN
+ZebPay	https://www.zebpay.com/
+Koinex	https://koinex.in/
+BuyUcoin	https://www.buyucoin.com/
+Unocoin	https://www.unocoin.com/
+Bitbns	https://bitbns.com/
+Giottus	https://www.giottus.com/
+
+
+22. Banks
+Bank Name	URL
+State Bank of India (SBI)	https://www.sbi.co.in/
+HDFC Bank	https://www.hdfcbank.com/
+ICICI Bank	https://www.icicibank.com/
+Axis Bank	https://www.axisbank.com/
+Kotak Mahindra Bank	https://www.kotak.com/
+Bank of Baroda	https://www.bankofbaroda.in/
+Punjab National Bank	https://www.pnbindia.in/
+Canara Bank	https://www.canarabank.com/
+IDFC FIRST Bank	https://www.idfcfirstbank.com/
+Yes Bank	https://www.yesbank.in/
+
+
+23. Movie Tickets
+Website Name	URL
+BookMyShow	https://in.bookmyshow.com/
+Paytm Movies	https://paytm.com/movies
+PVR Cinemas	https://www.pvrcinemas.com/
+INOX Movies	https://www.inoxmovies.com/
+Cinepolis India	https://www.cinepolisindia.com/
+Carnival Cinemas	https://www.carnivalcinemas.com/
+TicketNew	https://www.ticketnew.com/
+Justickets	https://www.justickets.in/
+EasyMovies	https://easymovies.in/
+Townscript	https://www.townscript.com/
+
+
+24. Music
+Website Name	URL
+JioSaavn	https://www.jiosaavn.com/
+Gaana	https://gaana.com/
+Spotify India	https://www.spotify.com/in/
+Wynk Music	https://wynk.in/
+Hungama	https://www.hungama.com/
+Apple Music	https://music.apple.com/in/
+Amazon Music	https://music.amazon.in/
+YouTube Music	https://music.youtube.com/
+SoundCloud	https://soundcloud.com/
+Resso	https://www.resso.com/
+
+
+25. Social
+
+Facebook	https://www.facebook.com/
+Instagram	https://www.instagram.com/
+WhatsApp Web	https://web.whatsapp.com/
+Twitter (X)	https://twitter.com/
+LinkedIn	https://www.linkedin.com/
+Snapchat	https://www.snapchat.com/
+Pinterest	https://www.pinterest.com/
+Quora	https://www.quora.com/
+Koo	https://www.kooapp.com/
+Reddit India	https://www.reddit.com/r/india/
+
+26. Games
+
+JioGames	https://jiogames.com/
+MPL	https://www.mpl.live/
+Gamezop	https://www.gamezop.com/
+Nazara Games	https://www.nazara.com/
+AtmeGame	https://atmegame.com/
+Zapak	https://www.zapak.com/
+PokerBaazi	https://www.pokerbaazi.com/
+Adda52	https://www.adda52.com/
+Dream11 Games	https://www.dream11.com/
+RummyCircle	https://www.rummycircle.com/
+
+27. Sports
+Website Name	URL
+Cricbuzz	https://www.cricbuzz.com/
+ESPNcricinfo	https://www.espncricinfo.com/
+Sportskeeda	https://www.sportskeeda.com/
+My11Circle	https://www.my11circle.com/
+Dream11	https://www.dream11.com/
+MyTeam11	https://www.myteam11.com/
+MPL Sports	https://www.mpl.live/
+NDTV Sports	https://sports.ndtv.com/
+Sportstar	https://sportstar.thehindu.com/
+T20 World Cup	https://www.t20worldcup.com/
+
+28. Dating
+Website Name	URL
+Shaadi.com	https://www.shaadi.com/
+Jeevansathi	https://www.jeevansathi.com/
+Bharat Matrimony	https://www.bharatmatrimony.com/
+TrulyMadly	https://www.trulymadly.com/
+Aisle	https://aisle.co/
+QuackQuack	https://www.quackquack.in/
+Tinder India	https://tinder.com/
+Bumble India	https://bumble.com/
+Hinge	https://hinge.co/
+M4marry	https://m4marry.com/
+
+29. Sell & Buy (Classifieds, Marketplaces)
+Website Name	URL
+OLX	https://www.olx.in/
+Quikr	https://www.quikr.com/
+Cashify	https://www.cashify.in/
+Meesho Sell	https://meesho.com/sell
+Flipkart Sell	https://seller.flipkart.com/
+Amazon Seller	https://sellercentral.amazon.in/
+Facebook Marketplace	https://www.facebook.com/marketplace/
+Sulekha	https://www.sulekha.com/
+Indiamart	https://www.indiamart.com/
+ClickIndia	https://www.clickindia.com/
+
+
+30. Community & Forum
+Website Name	URL
+Reddit India	https://www.reddit.com/r/india/
+Quora India	https://www.quora.com/topic/India
+Stack Overflow	https://stackoverflow.com/
+India Forums	https://www.indiaforums.com/
+TechEnclave	https://techenclave.com/
+Pagalguy	https://www.pagalguy.com/
+MouthShut	https://www.mouthshut.com/
+Team-BHP	https://www.team-bhp.com/
+CAclubindia	https://www.caclubindia.com/
+BikerZoneIndia	https://www.xbhp.com/talkies/
+
+31. Business Directory
+Website Name	URL
+IndiaMART	https://www.indiamart.com/
+Justdial	https://www.justdial.com/
+Sulekha Business	https://www.sulekha.com/business
+TradeIndia	https://www.tradeindia.com/
+Yellow Pages India	https://www.yellowpages.in/
+ExportersIndia	https://www.exportersindia.com/
+Connect2India	https://connect2india.com/
+B2BHint	https://www.b2bhint.com/india/
+BizBilla	https://www.bizbilla.com/
+SME Chamber	https://www.smechamberofindia.com/
+
+32. Trading (Demat Account)
+Website Name	URL
+Groww	https://groww.in/
+Zerodha	https://zerodha.com/
+Angel One	https://www.angelone.in/
+Upstox	https://upstox.com/
+ICICI Direct	https://www.icicidirect.com/
+HDFC Securities	https://www.hdfcsec.com/
+5paisa	https://www.5paisa.com/
+Kotak Securities	https://www.kotaksecurities.com/
+Motilal Oswal	https://www.motilaloswal.com/
+Sharekhan	https://www.sharekhan.com/
+
+33. India Payment Gateways
+Website Name	URL
+Razorpay	https://razorpay.com/
+Paytm Payments	https://business.paytm.com/
+CCAvenue	https://www.ccavenue.com/
+PayU India	https://india.payu.com/
+Cashfree Payments	https://www.cashfree.com/
+Instamojo	https://www.instamojo.com/
+BillDesk	https://www.billdesk.com/
+PhonePe for Bus.	https://www.phonepe.com/business/
+Atom Technologies	https://www.atomtech.in/
+JusPay	https://juspay.in/
+
+34. Credit Cards
+Website Name	URL
+HDFC Bank Cards	https://www.hdfcbank.com/personal/pay/cards/credit-cards
+SBI Card	https://www.sbicard.com/
+Axis Bank Cards	https://www.axisbank.com/retail/cards/credit-card
+ICICI Bank Cards	https://www.icicibank.com/Personal-Banking/cards/Consumer-Cards/Credit-Card
+Kotak Mahindra Cards	https://www.kotak.com/en/personal-banking/cards/credit-cards.html
+American Express IN	https://www.americanexpress.com/in/
+RBL Bank Cards	https://www.rblbank.com/product/credit-cards
+Standard Chartered	https://www.sc.com/in/credit-cards/
+IndusInd Bank Cards	https://www.indusind.com/in/en/personal/cards/credit-card.html
+HSBC India Cards	https://www.hsbc.co.in/credit-cards/
+
+35. Investment Platforms
+Website Name	URL
+Groww	https://groww.in/
+Zerodha (Coin)	https://coin.zerodha.com/
+Paytm Money	https://www.paytmmoney.com/
+ET Money	https://www.etmoney.com/
+Kuvera	https://www.kuvera.in/
+INDmoney	https://www.indmoney.com/
+Scripbox	https://scripbox.com/
+Angel One	https://www.angelone.in/
+Upstox	https://upstox.com/
+ICICI Direct	https://www.icicidirect.com/
+
+36. Insurance
+Website Name	URL
+PolicyBazaar	https://www.policybazaar.com/
+LIC India	https://licindia.in/
+HDFC Ergo	https://www.hdfcergo.com/
+ICICI Lombard	https://www.icicilombard.com/
+Max Life Insurance	https://www.maxlifeinsurance.com/
+SBI Life Insurance	https://www.sbilife.co.in/
+Bajaj Allianz	https://www.bajajallianz.com/
+Reliance General	https://www.reliancegeneral.co.in/
+Star Health	https://www.starhealth.in/
+TATA AIG	https://www.tataaig.com/
+
+37. Trading – Phone Company Portals (2025)
+
+Rank	Website Name	URL
+1	Samsung India	https://www.samsung.com/in/
+2	Jio	https://www.jio.com/
+3	Airtel	https://www.airtel.in/
+4	VI (Vodafone Idea)	https://www.myvi.in/
+5	Realme India	https://www.realme.com/in/
+6	Xiaomi India	https://www.mi.com/in/
+7	Oppo India	https://www.oppo.com/in/
+8	OnePlus India	https://www.oneplus.com/in
+9	Vivo India	https://www.vivo.com/in/
+10	BSNL	https://www.bsnl.co.in/
+
+38. Events & Ticket Booking
+
+Rank	Website Name	URL
+1	BookMyShow	https://in.bookmyshow.com/
+2	Paytm Insider	https://insider.in/
+3	Townscript	https://www.townscript.com/
+4	MeraEvents	https://www.meraevents.com/
+5	Eventbrite India	https://www.eventbrite.com/d/india/
+6	EventsNow	https://www.eventsnow.com/
+7	Ticketgenie	https://www.ticketgenie.in/
+8	AllEvents.in	https://allevents.in/
+9	Explara	https://www.explara.com/
+10	Dreamcast	https://www.dreamcast.in/
+
+39. PG & Real Estate
+
+
+Rank	Website Name	URL
+1	MagicBricks	https://www.magicbricks.com/
+2	99acres	https://www.99acres.com/
+3	Housing.com	https://housing.com/
+4	NoBroker	https://www.nobroker.in/
+5	Square Yards	https://www.squareyards.com/
+6	NayaPurana	https://www.nayapurana.in/
+7	Makaan	https://www.makaan.com/
+8	PGStay	https://www.pgstay.com/
+9	ZoloStays	https://zolostays.com/
+10	Your-Space	https://www.your-space.in/
+
+
+
+
+
+
